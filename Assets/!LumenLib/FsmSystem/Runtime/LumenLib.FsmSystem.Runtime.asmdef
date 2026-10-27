@@ -1,0 +1,16 @@
+{
+    "name": "LumenLib.FsmSystem.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "AnimatorSystem_assembly"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

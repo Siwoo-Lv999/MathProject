@@ -1,0 +1,8 @@
+{
+  "name": "LumenLib.SoundSystem.Runtime",
+  "rootNamespace": "LumenLib.SoundSystem",
+  "references": [
+    "ServiceLocator_assembly",
+    "PoolingSystem_Runtime_assembly"
+  ]
+}

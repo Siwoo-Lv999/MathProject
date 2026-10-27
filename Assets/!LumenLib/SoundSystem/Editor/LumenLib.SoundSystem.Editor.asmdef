@@ -1,0 +1,10 @@
+{
+  "name": "LumenLib.SoundSystem.Editor",
+  "rootNamespace": "LumenLib.SoundSystemEditor",
+  "references": [
+    "LumenLib.SoundSystem.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
